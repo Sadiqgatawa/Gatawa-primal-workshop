@@ -1,0 +1,76 @@
+*{
+    margin:0 ;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    border: none;
+    outline: none;
+    font-family: "poppins,sans-serif";
+    background-color: white; 
+}
+img{
+    width: 10pc;
+    border-radius: 100px;
+}
+h1.label{
+    font-size: 50px;
+    color: white;
+    background-color: black;
+    text-align: center;
+
+}
+header{
+    background-color: black;
+
+}
+nav{
+    background-color: red;
+    height: 50px;
+    width: 100%;
+
+}
+nav ul{
+    float: right;
+    margin-right: 20px;
+    background-color: red;
+    height: 30%;
+}
+nav ul li{
+    display: inline-block;
+    line-height: 80px;
+    margin: 0 5px;
+    background-color: red;
+    height: 30%;
+}
+nav ul li a{
+    color: white; 
+    background-color: red;
+    
+}
+a.active, a:hover{
+    background-color: white;
+    color: red;
+    transition: 1s;
+
+}
+h1.heda{
+    padding-top: 1pc;
+    text-align: center;
+    text-decoration: solid;
+}
+h3.info{
+    padding-top: 2pc;
+    padding-left: 2pc;
+}
+h3.second{
+    padding-left: 40pc;
+    
+}
+h2{
+    padding-top: 2pc;
+    text-align: center;
+    text-decoration: underline;
+}
+fieldset{
+    background-color: red;
+}
