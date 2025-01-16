@@ -61,9 +61,12 @@ h1.heda{
 h3.info{
     padding-top: 2pc;
     padding-left: 2pc;
+    font-size: 2pc;
 }
 h3.second{
-    padding-left: 40pc;
+    padding-top: 2pc;
+    padding-left: 2pc;
+    font-size: 2pc;
     
 }
 h2{
@@ -73,4 +76,8 @@ h2{
 }
 fieldset{
     background-color: red;
+}
+footer{
+    background-color: black;
+
 }
